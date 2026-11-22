@@ -1,0 +1,33 @@
+:root {
+    --primary: #e11d48;
+    --secondary: #881337;
+    --accent: #fecdd3;
+    --primary-fg: #ffffff;
+
+    --body-fg: #1f2937;
+    --body-bg: #fff1f2;
+    --body-quiet-color: #6b7280;
+    --body-loud-color: #111827;
+
+    --header-color: #ffe4e6;
+    --header-branding-color: var(--accent);
+    --header-bg: var(--secondary);
+    --header-link-color: #ffffff;
+
+    --breadcrumbs-fg: #fecdd3;
+    --breadcrumbs-link-fg: #ffffff;
+    --breadcrumbs-bg: #be123c;
+
+    --link-fg: #e11d48;
+    --link-hover-color: #be123c;
+    --link-selected-fg: #881337;
+
+    --hairline-color: #ffe4e6;
+    --border-color: #fecdd3;
+
+    --selected-row: #ffe4e6;
+    --button-bg: #e11d48;
+    --button-hover-bg: #be123c;
+    --default-button-bg: #881337;
+    --default-button-hover-bg: #4c0519;
+}
